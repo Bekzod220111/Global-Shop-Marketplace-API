@@ -1,0 +1,1 @@
+# Global-Shop-Marketplace-API
